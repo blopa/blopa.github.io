@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{b53G:function(e,t,a){"use strict";a.r(t);var o=a("q1tI"),i=a.n(o),s=a("R/WZ"),n=a("DN+1"),c=Object(s.a)(e=>({}));t.default=e=>{var{data:t}=e;c();return i.a.createElement(n.a,{images:null==t?void 0:t.images,title:"gamescom_2019_photos.title",description:"gamescom_2019_photos.description"})}}}]);
+//# sourceMappingURL=component---src-custom-pages-photos-gamescom-2019-jsx-7bf8ba6e51c5aac2171f.js.map
