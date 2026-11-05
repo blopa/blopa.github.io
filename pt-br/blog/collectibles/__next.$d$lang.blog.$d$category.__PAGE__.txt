@@ -1,0 +1,30 @@
+3:"$Sreact.fragment"
+4:"/_next/static/chunks/1j8a5jcp7z_nh.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+d:"/_next/static/chunks/2cxnh1fr1-ux-.js"
+e:I[22016,["$d"],""]
+f:I[97367,["$4"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$4"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$4"],"$15"]
+17:I[27201,["$4"],"IconMark"]
+8:X
+8:C
+9:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[[["$","nav",null,{"className":"breadcrumbs mb-6 text-sm italic text-base-content/70","aria-label":"Breadcrumbs","children":["$","ul",null,{"children":[["$","li","Blog",{"children":["$","$Le",null,{"href":"/pt-br/blog/","children":"Blog"}]}],["$","li","Colecionáveis",{"children":"Colecionáveis"}]]}]}],["$","h1",null,{"className":"mb-4 text-3xl font-bold","children":["Posts na categoria ","Colecionáveis"]}],["$","ul",null,{"className":"list","children":[["$","li","/pt-br/blog/collectibles/por-que-alguns-brinquedos-de-plastico-sao-tao-caros-uma-espiada-nos-bastidores-dos-precos/",{"className":"list-row px-0","children":["$","div",null,{"className":"list-col-grow","children":[["$","h2",null,{"className":"text-xl font-semibold","children":["$","$Le",null,{"href":"/pt-br/blog/collectibles/por-que-alguns-brinquedos-de-plastico-sao-tao-caros-uma-espiada-nos-bastidores-dos-precos/","className":"link link-hover link-primary","children":"Por que alguns brinquedos de plástico são tão caros? Uma espiada nos bastidores dos preços"}]}],["$","time",null,{"dateTime":"2025-09-30","className":"text-sm text-base-content/60","children":"30 de setembro de 2025"}],["$","p",null,{"className":"mt-1 italic text-base-content/80","children":"Você já olhou um action figure da SH Figuarts de Dragon Ball e soltou um \"porra, isso é só plástico, como assim €50?\" Tranquilo, você não tá sozinho. À primeira…"}]]}]}],["$","li","/pt-br/blog/collectibles/lego-e-amor/",{"className":"list-row px-0","children":["$","div",null,{"className":"list-col-grow","children":[["$","h2",null,{"className":"text-xl font-semibold","children":["$","$Le",null,{"href":"/pt-br/blog/collectibles/lego-e-amor/","className":"link link-hover link-primary","children":"Lego é amor"}]}],["$","time",null,{"dateTime":"2013-02-09","className":"text-sm text-base-content/60","children":"9 de fevereiro de 2013"}],["$","p",null,{"className":"mt-1 italic text-base-content/80","children":"Vegeta grrrrr Ultimamente eu voltei a me apaixonar por Lego, que foi o meu brinquedo favorito na infância, ou pelo menos foi até eu ganhar um SNES. Aproveitando…"}]]}]}]]}]],null,["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":"$@12","v":null,"s":"$9"}}]]
+a:[["children",{"s":{"n":"category","t":"d","k":"collectibles","s":["categories","rss.xml","tags"]},"h":65632,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$8","s":"$9"},"c":"$Qc"}]]
+2:[["children",{"s":"blog","h":131136,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":{"n":"lang","t":"d","k":"pt-br","s":["fonts","translations.json"]},"h":196656,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#3f51b5","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#212121","media":"(prefers-color-scheme: dark)"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Colecionáveis | pablo.gg"}],["$","meta","1",{"name":"description","content":"Apenas mais um blog pessoal"}],["$","meta","2",{"name":"application-name","content":"pablo.gg"}],["$","link","3",{"rel":"author","href":"https://pablo.gg"}],["$","meta","4",{"name":"author","content":"Pablo Montenegro"}],["$","link","5",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","6",{"name":"creator","content":"Pablo Montenegro"}],["$","meta","7",{"name":"robots","content":"noindex"}],["$","link","8",{"rel":"canonical","href":"https://pablo.gg/pt-br/blog/categories/collectibles/"}],["$","link","9",{"rel":"alternate","type":"application/rss+xml","href":"https://pablo.gg/pt-br/blog/rss.xml","title":"pablo.gg RSS"}],["$","meta","10",{"property":"og:title","content":"Colecionáveis"}],["$","meta","11",{"property":"og:description","content":"Apenas mais um blog pessoal"}],["$","meta","12",{"property":"og:url","content":"https://pablo.gg/pt-br/blog/categories/collectibles/"}],["$","meta","13",{"property":"og:site_name","content":"pablo.gg"}],["$","meta","14",{"property":"og:locale","content":"pt_BR"}],["$","meta","15",{"property":"og:image","content":"https://pablo.gg/images/og-default.jpg"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:type","content":"website"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:site","content":"@thepiratepablo"}],["$","meta","21",{"name":"twitter:creator","content":"@thepiratepablo"}],["$","meta","22",{"name":"twitter:title","content":"Colecionáveis"}],["$","meta","23",{"name":"twitter:description","content":"Apenas mais um blog pessoal"}],["$","meta","24",{"name":"twitter:image","content":"https://pablo.gg/images/og-default.jpg"}],["$","link","25",{"rel":"icon","href":"/icon.png?icon.3mypp4z04tnm6.png","sizes":"1500x1500","type":"image/png"}],["$","$L17","26",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@18","v":null,"s":"$9"}},"a":"$@19","u":"$@1a","b":"tm3nBkc7B7MbzNzKBBSOi"}
+11:null
+1a:true
+9:300
+9:C
+19:0
+b:"$undefined"
+7:"$undefined"
+18:"$undefined"
+12:"$undefined"

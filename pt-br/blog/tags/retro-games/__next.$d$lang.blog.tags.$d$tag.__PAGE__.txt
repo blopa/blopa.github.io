@@ -1,0 +1,32 @@
+3:"$Sreact.fragment"
+4:"/_next/static/chunks/1j8a5jcp7z_nh.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+f:"/_next/static/chunks/2cxnh1fr1-ux-.js"
+10:I[22016,["$f"],""]
+11:I[97367,["$4"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[97367,["$4"],"$15"]
+17:"MetadataBoundary"
+18:I[97367,["$4"],"$17"]
+19:I[27201,["$4"],"IconMark"]
+8:X
+8:C
+9:X
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[[["$","nav",null,{"className":"breadcrumbs mb-6 text-sm italic text-base-content/70","aria-label":"Breadcrumbs","children":["$","ul",null,{"children":[["$","li","Blog",{"children":["$","$L10",null,{"href":"/pt-br/blog/","children":"Blog"}]}],["$","li","retro games",{"children":"retro games"}]]}]}],["$","h1",null,{"className":"mb-4 text-3xl font-bold","children":["Posts com a tag ","retro games"]}],["$","ul",null,{"className":"list","children":[["$","li","/pt-br/blog/games/um-guia-para-a-busca-de-retro-games-em-seoul/",{"className":"list-row px-0","children":["$","div",null,{"className":"list-col-grow","children":[["$","h2",null,{"className":"text-xl font-semibold","children":["$","$L10",null,{"href":"/pt-br/blog/games/um-guia-para-a-busca-de-retro-games-em-seoul/","className":"link link-hover link-primary","children":"Um guia para a busca de retro games em Seul"}]}],["$","time",null,{"dateTime":"2024-10-21","className":"text-sm text-base-content/60","children":"21 de outubro de 2024"}],["$","p",null,{"className":"mt-1 italic text-base-content/80","children":"Visitar Seul pela primeira vez como um ocidental noob pode ser complicado! Muita coisa é diferente, como o Google Maps não funcionar direito. Em vez disso, você…"}]]}]}]]}]],null,["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$9"}}]]
+c:[["children",{"s":{"n":"tag","t":"d","k":"retro-games","s":[]},"h":65632,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@d","v":"$8","s":"$9"},"c":"$Qe"}]]
+a:[["children",{"s":"tags","h":131168,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$8","s":"$9"},"c":"$Qc"}]]
+2:[["children",{"s":"blog","h":131136,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":{"n":"lang","t":"d","k":"pt-br","s":["fonts","translations.json"]},"h":196656,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#3f51b5","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#212121","media":"(prefers-color-scheme: dark)"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Posts com a tag retro games | pablo.gg"}],["$","meta","1",{"name":"description","content":"Posts com a tag retro games"}],["$","meta","2",{"name":"application-name","content":"pablo.gg"}],["$","link","3",{"rel":"author","href":"https://pablo.gg"}],["$","meta","4",{"name":"author","content":"Pablo Montenegro"}],["$","link","5",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","6",{"name":"creator","content":"Pablo Montenegro"}],["$","link","7",{"rel":"canonical","href":"https://pablo.gg/pt-br/blog/tags/retro-games/"}],["$","link","8",{"rel":"alternate","type":"application/rss+xml","href":"https://pablo.gg/pt-br/blog/rss.xml","title":"pablo.gg RSS"}],["$","meta","9",{"property":"og:title","content":"Posts com a tag retro games"}],["$","meta","10",{"property":"og:description","content":"Posts com a tag retro games"}],["$","meta","11",{"property":"og:url","content":"https://pablo.gg/pt-br/blog/tags/retro-games/"}],["$","meta","12",{"property":"og:site_name","content":"pablo.gg"}],["$","meta","13",{"property":"og:locale","content":"pt_BR"}],["$","meta","14",{"property":"og:image","content":"https://pablo.gg/uploads/blog/2024/10/marketcity_sewoon.jpg"}],["$","meta","15",{"property":"og:image:width","content":"3172"}],["$","meta","16",{"property":"og:image:height","content":"1643"}],["$","meta","17",{"property":"og:image:alt","content":"Vista do Marketcity Sewoon"}],["$","meta","18",{"property":"og:type","content":"website"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:site","content":"@thepiratepablo"}],["$","meta","21",{"name":"twitter:creator","content":"@thepiratepablo"}],["$","meta","22",{"name":"twitter:title","content":"Posts com a tag retro games"}],["$","meta","23",{"name":"twitter:description","content":"Posts com a tag retro games"}],["$","meta","24",{"name":"twitter:image","content":"https://pablo.gg/uploads/blog/2024/10/marketcity_sewoon.jpg"}],["$","link","25",{"rel":"icon","href":"/icon.png?icon.3mypp4z04tnm6.png","sizes":"1500x1500","type":"image/png"}],["$","$L19","26",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1a","v":null,"s":"$9"}},"a":"$@1b","u":"$@1c","b":"tm3nBkc7B7MbzNzKBBSOi"}
+13:null
+1c:true
+9:300
+9:C
+1b:0
+d:"$undefined"
+b:"$undefined"
+7:"$undefined"
+1a:"$undefined"
+14:"$undefined"

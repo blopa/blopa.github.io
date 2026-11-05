@@ -1,0 +1,1653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pablo.gg</title>
+    <link>https://pablo.gg/en/blog/</link>
+    <description>Yet another developer personal blog</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 16 May 2026 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://pablo.gg/en/blog/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>You&apos;ll own nothing and you&apos;ll be happy - Part 1</title>
+      <link>https://pablo.gg/en/blog/general/youll-own-nothing-and-youll-be-happy-part-1/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/general/youll-own-nothing-and-youll-be-happy-part-1/</guid>
+      <pubDate>Sat, 16 May 2026 00:00:00 GMT</pubDate>
+      <description>I have a really hard time letting things go. I have the same photo library in Google Photos and in a bunch of hard drives inside my apartment. You know the &quot;bro…</description>
+      <category>general</category>
+      <category>subscriptions</category>
+      <category>digital-ownership</category>
+      <category>games</category>
+      <category>physical-media</category>
+      <category>enshittification</category>
+    </item>
+    <item>
+      <title>Website or App? Yes! The hacky guide to building sites with Expo Router</title>
+      <link>https://pablo.gg/en/blog/coding/website-or-app-yes-hacky-expo-router-guide/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/website-or-app-yes-hacky-expo-router-guide/</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+      <description>One of the annoying little side quests of shipping an app is that Google occasionally forces you to become a website owner too. Back when I first wrote about Mu…</description>
+      <category>coding</category>
+      <category>expo</category>
+      <category>expo router</category>
+      <category>react native</category>
+      <category>musclog</category>
+      <category>website</category>
+      <category>monorepo</category>
+      <category>javascript</category>
+      <category>typescript</category>
+    </item>
+    <item>
+      <title>Musclog: Redesign nutrition tracking and why your fitness app subscription is a scam</title>
+      <link>https://pablo.gg/en/blog/coding/musclog-redesign-nutrition-tracking-and-why-your-fitness-app-subscription-is-a-scam/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/musclog-redesign-nutrition-tracking-and-why-your-fitness-app-subscription-is-a-scam/</guid>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 GMT</pubDate>
+      <description>Picture this: you&apos;re in the gym. You&apos;re between sets. You&apos;re sweating. You have about 90 seconds before you need to grab the bar again, and you&apos;re standing ther…</description>
+      <category>coding</category>
+      <category>react</category>
+      <category>react native</category>
+      <category>expo</category>
+      <category>android</category>
+      <category>fitness</category>
+      <category>musclog</category>
+      <category>nutrition</category>
+      <category>usda</category>
+      <category>open food facts</category>
+      <category>stitch</category>
+      <category>design</category>
+      <category>offline</category>
+      <category>watermelondb</category>
+      <category>nativewind</category>
+    </item>
+    <item>
+      <title>Why the 7700 calorie rule is broken (and how I fixed it in my app)</title>
+      <link>https://pablo.gg/en/blog/coding/why-the-7700-calorie-rule-is-broken-and-how-i-fixed-it-in-my-app/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/why-the-7700-calorie-rule-is-broken-and-how-i-fixed-it-in-my-app/</guid>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+      <description>Illustration of a person weighing food on a scale next to a large calorie equation I thought I had this figured out back in 2023. I built a Node.js script that…</description>
+      <category>coding</category>
+      <category>typescript</category>
+      <category>musclog</category>
+      <category>algorithms</category>
+      <category>fitness</category>
+      <category>nutrition</category>
+      <category>bodybuilding</category>
+    </item>
+    <item>
+      <title>Why are some plastic toys so expensive? A sneaky peek on how pricing works</title>
+      <link>https://pablo.gg/en/blog/collectibles/why-are-some-plastic-toys-so-expensive-a-sneaky-peek-on-how-pricing-works/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/collectibles/why-are-some-plastic-toys-so-expensive-a-sneaky-peek-on-how-pricing-works/</guid>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+      <description>Ever looked at a Dragon Ball SH Figuarts action figure and went &quot;bro, this is just plastic, how is this €50?&quot; Chill, you&apos;re not the only one. At first glance it…</description>
+      <category>collectibles</category>
+      <category>sh figuarts</category>
+      <category>dragon ball</category>
+      <category>action figures</category>
+      <category>economics</category>
+      <category>pricing</category>
+      <category>toys</category>
+      <category>collectibles</category>
+      <category>plastic</category>
+    </item>
+    <item>
+      <title>I built a retro RPG game shop extension for my Magento 2 store</title>
+      <link>https://pablo.gg/en/blog/coding/i-built-a-retro-rpg-game-shop-extension-for-my-magento-2-store/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/i-built-a-retro-rpg-game-shop-extension-for-my-magento-2-store/</guid>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 GMT</pubDate>
+      <description>My brand-new project (or side-gig?), Zenkai Zone, had grown into a solid e-commerce site, but let&apos;s face it - just using the plain Magento 2 template is a bit m…</description>
+      <category>coding</category>
+      <category>magento</category>
+      <category>magento2</category>
+      <category>php</category>
+      <category>ecommerce</category>
+      <category>seo</category>
+      <category>api</category>
+      <category>vue.js</category>
+      <category>tailwindcss</category>
+      <category>zenkai zone</category>
+    </item>
+    <item>
+      <title>Creating a Magento 2 extension to automate product description</title>
+      <link>https://pablo.gg/en/blog/coding/creating-a-magento-2-extension-to-automate-product-description/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/creating-a-magento-2-extension-to-automate-product-description/</guid>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
+      <description>The life of a store manager in the eCommerce world isn&apos;t always glamorous. You might dream of big product launches and tons of revenue, but most of the time you…</description>
+      <category>coding</category>
+      <category>magento</category>
+      <category>php</category>
+      <category>gemini</category>
+      <category>openai</category>
+      <category>automation</category>
+      <category>ecommerce</category>
+    </item>
+    <item>
+      <title>Sharing encrypted Laravel cookies with Next.js</title>
+      <link>https://pablo.gg/en/blog/coding/sharing-encrypted-laravel-cookies-with-next-js/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/sharing-encrypted-laravel-cookies-with-next-js/</guid>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
+      <description>I often have friends asking me, &quot;Pablo, how do you manage to stay so calm and collected in the face of complex technical challenges?&quot; Well, the truth is, I don&apos;…</description>
+      <category>coding</category>
+      <category>laravel</category>
+      <category>next.js</category>
+      <category>cookies</category>
+      <category>encryption</category>
+      <category>synchronization</category>
+      <category>web development</category>
+      <category>php</category>
+      <category>javascript</category>
+    </item>
+    <item>
+      <title>A guide to retro game shopping in Seoul</title>
+      <link>https://pablo.gg/en/blog/games/a-guide-to-retro-game-shopping-in-seoul/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/a-guide-to-retro-game-shopping-in-seoul/</guid>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
+      <description>Visiting Seoul for the first time as a noob westerner can be tricky! A lot of things are different, like Google Maps not working properly. Instead, you&apos;re relyi…</description>
+      <category>games</category>
+      <category>games</category>
+      <category>shopping</category>
+      <category>seoul</category>
+      <category>korea</category>
+      <category>action figures</category>
+      <category>retro games</category>
+      <category>video games</category>
+    </item>
+    <item>
+      <title>Musclog: Leveraging my React.js experience to build a React Native App</title>
+      <link>https://pablo.gg/en/blog/coding/musclog-leveraging-my-reactjs-experience-to-build-a-react-native-app/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/musclog-leveraging-my-reactjs-experience-to-build-a-react-native-app/</guid>
+      <pubDate>Sat, 21 Sep 2024 00:00:00 GMT</pubDate>
+      <description>Musclog illustration I constantly have that feeling of &quot;You become the very thing you swore to destroy&quot; due to the amount of time I&apos;ve been dedicating to bodybu…</description>
+      <category>coding</category>
+      <category>react</category>
+      <category>react native</category>
+      <category>expo</category>
+      <category>android</category>
+      <category>workout</category>
+      <category>tracker</category>
+      <category>logger</category>
+      <category>musclog</category>
+    </item>
+    <item>
+      <title>Tracking my working hours on personal projects using Node.js</title>
+      <link>https://pablo.gg/en/blog/coding/tracking-my-working-hours-on-personal-projects-ssing-nodejs/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/tracking-my-working-hours-on-personal-projects-ssing-nodejs/</guid>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 GMT</pubDate>
+      <description>illustration of how it feels to work with foss As a developer fully committed (pun intended, and not the only one) in FOSS side projects, I often lose track of…</description>
+      <category>coding</category>
+      <category>nodejs</category>
+      <category>git</category>
+      <category>foss</category>
+      <category>javascript</category>
+      <category>simple-git</category>
+      <category>math</category>
+    </item>
+    <item>
+      <title>Transforming manga pages for lazy western readers</title>
+      <link>https://pablo.gg/en/blog/coding/transforming-manga-pages-for-western-readers/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/transforming-manga-pages-for-western-readers/</guid>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <description>Reading manga as a Western reader can feel a bit like debugging assembly code, frustrating, and with a high risk of getting it all wrong. So, my fellow manga mi…</description>
+      <category>coding</category>
+      <category>python</category>
+      <category>manga</category>
+      <category>image processing</category>
+      <category>easyocr</category>
+      <category>PIL</category>
+      <category>comic</category>
+      <category>transformation</category>
+    </item>
+    <item>
+      <title>Creating Instagram Reels coding tutorials automatically with OpenAI&apos;s GPT</title>
+      <link>https://pablo.gg/en/blog/coding/creating-instagram-reels-coding-tutorials-automatically-with-openais-gpt/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/creating-instagram-reels-coding-tutorials-automatically-with-openais-gpt/</guid>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 GMT</pubDate>
+      <description>After creating a Node.js script to automatically post Instagram Reels and one to automatically generate thumbnails for a Instagram Reels, what comes next? Autom…</description>
+      <category>coding</category>
+      <category>openai</category>
+      <category>gpt</category>
+      <category>javascript</category>
+      <category>node</category>
+      <category>nodejs</category>
+      <category>instagram</category>
+      <category>automation</category>
+    </item>
+    <item>
+      <title>How to automatically create thumbnails for your videos with Node.js</title>
+      <link>https://pablo.gg/en/blog/coding/how-to-automatically-create-thumbnails-for-your-videos-with-nodejs/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/how-to-automatically-create-thumbnails-for-your-videos-with-nodejs/</guid>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
+      <description>Just last week I posted about how to upload reels to Instagram using Node.js, and in the code it was possible to upload a cover image for the video too, but I d…</description>
+      <category>coding</category>
+      <category>instagram</category>
+      <category>thumbnail</category>
+      <category>node</category>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>canvas</category>
+      <category>image</category>
+      <category>video</category>
+      <category>automation</category>
+    </item>
+    <item>
+      <title>Posting Instagram Reels using Node.js and the art of overcoming limitations</title>
+      <link>https://pablo.gg/en/blog/coding/posting-instagram-reels-using-nodejs-and-the-art-of-overcoming-limitations/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/posting-instagram-reels-using-nodejs-and-the-art-of-overcoming-limitations/</guid>
+      <pubDate>Sat, 14 Oct 2023 00:00:00 GMT</pubDate>
+      <description>Hey guys! It&apos;s hard to be a geek these days, so many events are exclusive to media people and influencers - even E3 was a trade-only show for many years. So let…</description>
+      <category>coding</category>
+      <category>instagram</category>
+      <category>node</category>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>axios</category>
+      <category>ngrok</category>
+      <category>ffmpeg</category>
+      <category>automation</category>
+    </item>
+    <item>
+      <title>My blog now has Stories, and I&apos;m not sure why</title>
+      <link>https://pablo.gg/en/blog/coding/my-blog-now-has-stories-and-im-not-sure-why/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/my-blog-now-has-stories-and-im-not-sure-why/</guid>
+      <pubDate>Mon, 04 Sep 2023 00:00:00 GMT</pubDate>
+      <description>&apos;Stories&apos; are everywhere on social media these days, and I found myself thinking - does my blog really need Stories? The answer, of course, is a resounding &apos;fuc…</description>
+      <category>coding</category>
+      <category>instagram</category>
+      <category>instagram stories</category>
+      <category>unnecessary inventions</category>
+      <category>gatsby</category>
+      <category>react</category>
+      <category>javascript</category>
+    </item>
+    <item>
+      <title>Using Google Fitness API to calculate my TDEE and more</title>
+      <link>https://pablo.gg/en/blog/coding/using-google-fitness-api-to-calculate-my-tdee-and-more/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/using-google-fitness-api-to-calculate-my-tdee-and-more/</guid>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 GMT</pubDate>
+      <description>If you want to lose some weight or build muscle, it&apos;s all about knowing how many calories you burn in a day, which is called your Total Daily Energy Expenditure…</description>
+      <category>coding</category>
+      <category>google cloud</category>
+      <category>fitness api</category>
+      <category>google fit</category>
+      <category>nodejs</category>
+      <category>node</category>
+      <category>javascript</category>
+      <category>automation</category>
+    </item>
+    <item>
+      <title>Creating Rest API endpoints to my Gatsby blog</title>
+      <link>https://pablo.gg/en/blog/coding/creating-rest-api-endpoints-to-my-gatsby-blog/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/creating-rest-api-endpoints-to-my-gatsby-blog/</guid>
+      <pubDate>Sun, 22 Jan 2023 00:00:00 GMT</pubDate>
+      <description>Gatsby is a popular static site generator that is built on React, and it&apos;s the one that I use to create this blog. It has a plugin system that makes it pretty e…</description>
+      <category>coding</category>
+      <category>gatsby</category>
+      <category>react</category>
+      <category>rest api</category>
+      <category>api</category>
+    </item>
+    <item>
+      <title>A guide to &quot;cliff&quot; diving in Amsterdam</title>
+      <link>https://pablo.gg/en/blog/general/a-guide-to-cliff-diving-in-amsterdam/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/general/a-guide-to-cliff-diving-in-amsterdam/</guid>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 GMT</pubDate>
+      <description>Last year, I wrote a blog post about where to find the best cliff diving spots in Benagil, Portugal, and let&apos;s just say I was a little bit hooked. I mean, who w…</description>
+      <category>general</category>
+      <category>cliff</category>
+      <category>cliff diving</category>
+      <category>amsterdam</category>
+      <category>bridge</category>
+      <category>canals</category>
+      <category>indoor cliff diving</category>
+    </item>
+    <item>
+      <title>E3 2023 dates revealed</title>
+      <link>https://pablo.gg/en/blog/games/e3-2023-dates-revealed/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/e3-2023-dates-revealed/</guid>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 GMT</pubDate>
+      <description>It&apos;s happening, it&apos;s finally happening - After 3 years of hiatus, E3 is finally coming back as a physical event in 2023, and I can&apos;t contain myself. Me while wr…</description>
+      <category>games</category>
+      <category>e3</category>
+      <category>los angeles</category>
+      <category>games</category>
+      <category>nintendo</category>
+      <category>sony</category>
+      <category>microsoft</category>
+    </item>
+    <item>
+      <title>Creating a Startup with GitHub Actions and Google Forms</title>
+      <link>https://pablo.gg/en/blog/coding/creating-a-startup-with-github-actions-and-google-forms/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/creating-a-startup-with-github-actions-and-google-forms/</guid>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
+      <description>The housing market in Amsterdam is crazy, so crazy that universities are telling students to not come to Amsterdam unless they already have a place to live here…</description>
+      <category>coding</category>
+      <category>startup</category>
+      <category>jamstack</category>
+      <category>google forms</category>
+      <category>github actions</category>
+      <category>react</category>
+      <category>gatsby</category>
+      <category>javascript</category>
+      <category>funda</category>
+      <category>netherlands</category>
+      <category>housing market</category>
+      <category>scraping</category>
+      <category>puppeteer.js</category>
+      <category>github</category>
+      <category>automation</category>
+    </item>
+    <item>
+      <title>How to get the Redux State in a React 18 production build via the browser&apos;s console</title>
+      <link>https://pablo.gg/en/blog/coding/how-to-get-the-redux-state-from-a-react-18-production-build-via-the-browsers-console/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/how-to-get-the-redux-state-from-a-react-18-production-build-via-the-browsers-console/</guid>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 GMT</pubDate>
+      <description>A few months ago I wrote a blog post about how to get the Redux State in production, but with the recent release of React 18, that code doesn&apos;t work anymore. Le…</description>
+      <category>coding</category>
+      <category>redux</category>
+      <category>react</category>
+      <category>javascript</category>
+      <category>browser</category>
+      <category>console</category>
+      <category>production build</category>
+      <category>hack</category>
+      <category>react 18</category>
+      <category>react 17</category>
+      <category>redux state</category>
+    </item>
+    <item>
+      <title>10 years anniversary of my first E3</title>
+      <link>https://pablo.gg/en/blog/games/10-years-anniversary-of-my-first-e3/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/10-years-anniversary-of-my-first-e3/</guid>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 GMT</pubDate>
+      <description>I remember the first time I was planning to go to E3 with some friends, back in 2009. It was more like a distant dream, just the idea of going to E3 was already…</description>
+      <category>games</category>
+      <category>e3</category>
+      <category>e3 2012</category>
+      <category>games</category>
+      <category>los angeles</category>
+      <category>lacc</category>
+      <category>convention center</category>
+      <category>nintendo</category>
+      <category>sony</category>
+      <category>microsoft</category>
+      <category>gameblast</category>
+      <category>media</category>
+      <category>journalism</category>
+    </item>
+    <item>
+      <title>Adding a copy button to code snippets on Gatsby: The lazy way</title>
+      <link>https://pablo.gg/en/blog/coding/adding-a-copy-button-to-code-snippets-on-gatsby-the-lazy-way/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/adding-a-copy-button-to-code-snippets-on-gatsby-the-lazy-way/</guid>
+      <pubDate>Thu, 05 May 2022 00:00:00 GMT</pubDate>
+      <description>I constantly write about code and share code snippets in my blog posts and copy-pasting code is an essential skill for software engineers, and since selecting a…</description>
+      <category>coding</category>
+      <category>gatsby</category>
+      <category>html</category>
+      <category>code snippets</category>
+      <category>node</category>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>dom</category>
+      <category>ast</category>
+    </item>
+    <item>
+      <title>How Webpack handles dynamic imports with variable paths</title>
+      <link>https://pablo.gg/en/blog/coding/how-webpack-handles-dynamic-imports-with-variable-paths/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/how-webpack-handles-dynamic-imports-with-variable-paths/</guid>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 GMT</pubDate>
+      <description>Webpack is the most popular module bundler for JavaScript, it&apos;s a tool for bundling modules together into a single file and more. One thing that always bugged m…</description>
+      <category>coding</category>
+      <category>webpack</category>
+      <category>esm</category>
+      <category>javascript</category>
+      <category>node</category>
+      <category>nodejs</category>
+      <category>coding</category>
+      <category>dynamic import</category>
+    </item>
+    <item>
+      <title>Using Node.js and GitHub Action to find a house on Funda.nl</title>
+      <link>https://pablo.gg/en/blog/coding/using-nodejs-and-github-action-to-find-a-house-on-fundanl/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/using-nodejs-and-github-action-to-find-a-house-on-fundanl/</guid>
+      <pubDate>Sat, 12 Mar 2022 00:00:00 GMT</pubDate>
+      <description>If you want to rent or buy a house in the Netherlands, you better brace yourself because it is no easy task, especially if you&apos;re looking in Amsterdam. Applying…</description>
+      <category>coding</category>
+      <category>funda</category>
+      <category>house</category>
+      <category>apartment</category>
+      <category>node</category>
+      <category>javascript</category>
+      <category>github actions</category>
+      <category>github</category>
+      <category>cronjob</category>
+      <category>yml</category>
+      <category>telegram</category>
+      <category>puppeteer.js</category>
+      <category>automation</category>
+    </item>
+    <item>
+      <title>How to get the Redux State in production via the browser&apos;s console</title>
+      <link>https://pablo.gg/en/blog/coding/how-to-get-the-redux-state-from-a-production-build-via-the-browsers-console/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/how-to-get-the-redux-state-from-a-production-build-via-the-browsers-console/</guid>
+      <pubDate>Sun, 20 Feb 2022 00:00:00 GMT</pubDate>
+      <description>EDIT: This only works for React 17 or lower, for React 18 check this blog post. Sometimes you want to debug the Redux State from your application on production,…</description>
+      <category>coding</category>
+      <category>redux</category>
+      <category>react</category>
+      <category>javascript</category>
+      <category>browser</category>
+      <category>console</category>
+      <category>production build</category>
+      <category>hack</category>
+    </item>
+    <item>
+      <title>Create videos from code snippets with this Node.js script</title>
+      <link>https://pablo.gg/en/blog/coding/create-videos-from-code-snippets-with-this-nodejs-script/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/create-videos-from-code-snippets-with-this-nodejs-script/</guid>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
+      <description>When I was working on my Game Devlog videos, I wondered if there was any way to automatically transform my code snippets into a video, so I could add them to my…</description>
+      <category>coding</category>
+      <category>node</category>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>code snippet</category>
+      <category>coding</category>
+      <category>puppeteer</category>
+      <category>automation</category>
+    </item>
+    <item>
+      <title>How to load assets asynchronously with Phaser 3</title>
+      <link>https://pablo.gg/en/blog/games/how-to-load-assets-asynchronously-with-phaser-3/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/how-to-load-assets-asynchronously-with-phaser-3/</guid>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+      <description>On Phaser 3 you can pre-load your assets in a function called preload so they are ready to use when the function create starts. But what if you need to wait for…</description>
+      <category>games</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>asynchronous</category>
+      <category>rexrainbow</category>
+      <category>phaser loader</category>
+    </item>
+    <item>
+      <title>Buy Metroid Dread</title>
+      <link>https://pablo.gg/en/blog/games/buy-metroid-dread/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/buy-metroid-dread/</guid>
+      <pubDate>Sun, 07 Nov 2021 00:00:00 GMT</pubDate>
+      <description>Alright! It&apos;s here, Metroid F** Dread is finally here! All these years of news, rumors and even some conspiracy theories, it is finally here. I haven&apos;t written…</description>
+      <category>games</category>
+      <category>metroid</category>
+      <category>metroid dread</category>
+      <category>metroidvania</category>
+      <category>nintendo</category>
+      <category>nintendo switch</category>
+    </item>
+    <item>
+      <title>How to import Gatsby posts into Medium with Gist code snippets</title>
+      <link>https://pablo.gg/en/blog/coding/how-to-import-gatsby-posts-into-medium-with-gist-code-snippets/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/how-to-import-gatsby-posts-into-medium-with-gist-code-snippets/</guid>
+      <pubDate>Sun, 24 Oct 2021 00:00:00 GMT</pubDate>
+      <description>Medium is a great platform to share your blog posts with a wider audience, but it is a bit annoying that to have code snippets you need to create a GitHub Gist…</description>
+      <category>coding</category>
+      <category>github</category>
+      <category>gist</category>
+      <category>gatsby</category>
+      <category>javascript</category>
+      <category>api</category>
+      <category>react</category>
+      <category>jsdom</category>
+      <category>node-fetch</category>
+      <category>automation</category>
+    </item>
+    <item>
+      <title>I made a top-down game version of my blog with Phaser and React</title>
+      <link>https://pablo.gg/en/blog/coding/i-made-a-top-down-game-version-of-my-blog-with-phaser-and-react/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/i-made-a-top-down-game-version-of-my-blog-with-phaser-and-react/</guid>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 GMT</pubDate>
+      <description>Yes, that&apos;s right, there is now a game version of this website. Tired of clicking around boring pages and reading stuff? What about dive into a journey of a top…</description>
+      <category>coding</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>react</category>
+      <category>blog</category>
+      <category>rpg</category>
+      <category>rpg maker</category>
+      <category>top-down</category>
+    </item>
+    <item>
+      <title>How to create a top-down RPG Maker like game with Phaser JS and React</title>
+      <link>https://pablo.gg/en/blog/coding/how-to-create-a-top-down-rpg-maker-like-game-with-phaser-js-and-react/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/how-to-create-a-top-down-rpg-maker-like-game-with-phaser-js-and-react/</guid>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 GMT</pubDate>
+      <description>My first experience in &quot;programming&quot; started in 2002, when I was making games with RPG Maker, when I learned what a variable, data persistence, and loops were.…</description>
+      <category>coding</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>react</category>
+      <category>dialog box</category>
+      <category>rpg</category>
+      <category>rpg maker</category>
+    </item>
+    <item>
+      <title>Creating a dialog box with React for a Phaser game</title>
+      <link>https://pablo.gg/en/blog/coding/creating-a-dialog-box-with-react-for-a-phaser-game/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/creating-a-dialog-box-with-react-for-a-phaser-game/</guid>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 GMT</pubDate>
+      <description>Phaser works by rendering pixels inside a canvas element in the DOM, and it&apos;s great, but one of the great features of web development is the power of the DOM an…</description>
+      <category>coding</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>react</category>
+      <category>dialog box</category>
+      <category>rpg</category>
+      <category>rpg maker</category>
+      <category>material ui</category>
+    </item>
+    <item>
+      <title>Automatically update the embedded Tileset for all your Tiled maps a Node.js script</title>
+      <link>https://pablo.gg/en/blog/games/automatically-update-the-embedded-tileset-for-all-your-tiled-game-with-a-nodejs-script/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/automatically-update-the-embedded-tileset-for-all-your-tiled-game-with-a-nodejs-script/</guid>
+      <pubDate>Sat, 02 Oct 2021 00:00:00 GMT</pubDate>
+      <description>Creating maps with Tiled is great, and you can use them in pretty much any game engine today, including Phaser JS. To load a map with Phaser JS is simple, first…</description>
+      <category>games</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>nodejs</category>
+      <category>node</category>
+      <category>tiled</category>
+      <category>map</category>
+      <category>tilemap</category>
+      <category>tileset</category>
+      <category>automation</category>
+    </item>
+    <item>
+      <title>Creating a Matrix Source-Code effect background for my website with React</title>
+      <link>https://pablo.gg/en/blog/coding/creating-a-matrix-source-code-effect-background-for-my-website-with-react/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/creating-a-matrix-source-code-effect-background-for-my-website-with-react/</guid>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 GMT</pubDate>
+      <description>To celebrate the release of the Matrix 4 trailer, I want to add a Matrix Source-Code effect background to this website, which is already deployed, and you can t…</description>
+      <category>coding</category>
+      <category>the matrix</category>
+      <category>matrix source-code</category>
+      <category>matrix digital rain</category>
+      <category>react</category>
+      <category>react hooks</category>
+      <category>javascript</category>
+      <category>konami code</category>
+    </item>
+    <item>
+      <title>Creating a mobile build of my Phaser JS game - Game Devlog #23</title>
+      <link>https://pablo.gg/en/blog/games/creating-a-mobile-build-of-my-phaser-js-game-game-devlog-23/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/creating-a-mobile-build-of-my-phaser-js-game-game-devlog-23/</guid>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 GMT</pubDate>
+      <description>Hey everyone, here we are again with another game devlog for Super Ollie, and since the game is being built with JavaScript, I can easily export it to pretty mu…</description>
+      <category>games</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>game devlog</category>
+      <category>gamedev</category>
+      <category>skate platformer</category>
+      <category>super ollie vs pebble corp</category>
+      <category>webpack</category>
+      <category>tiled</category>
+      <category>mobile</category>
+      <category>android</category>
+      <category>mobile build</category>
+    </item>
+    <item>
+      <title>A guide to cliff diving in Benagil</title>
+      <link>https://pablo.gg/en/blog/general/a-guide-to-cliff-diving-in-benagil/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/general/a-guide-to-cliff-diving-in-benagil/</guid>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 GMT</pubDate>
+      <description>Last month I traveled to the region of Algarve in Portugal, and for my luck, there were some awesome beaches for hiking, stone climbing, and cliff diving, and s…</description>
+      <category>general</category>
+      <category>cliff</category>
+      <category>cliff diving</category>
+      <category>benagil</category>
+      <category>carvalho beach</category>
+      <category>portugal</category>
+      <category>algarve</category>
+    </item>
+    <item>
+      <title>Creating moving platforms for my Phaser JS game - Game Devlog #22</title>
+      <link>https://pablo.gg/en/blog/games/creating-moving-platforms-for-my-phaser-js-game-game-devlog-22/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/creating-moving-platforms-for-my-phaser-js-game-game-devlog-22/</guid>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 GMT</pubDate>
+      <description>Hello everyone, welcome to another game devlog for my game Super Ollie, and after almost a whole year of development I&apos;m finally tackling something that every p…</description>
+      <category>games</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>game devlog</category>
+      <category>gamedev</category>
+      <category>skate platformer</category>
+      <category>super ollie vs pebble corp</category>
+      <category>webpack</category>
+      <category>tiled</category>
+      <category>moving platforms</category>
+      <category>platforms</category>
+    </item>
+    <item>
+      <title>Creating my dream Skyward Sword HD Switch accessories</title>
+      <link>https://pablo.gg/en/blog/games/creating-my-dream-skyward-sword-hd-switch-accessories/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/creating-my-dream-skyward-sword-hd-switch-accessories/</guid>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+      <description>This year marks the 35th anniversary of The Legend of Zelda (and Metroid) and Nintendo tends to celebrate its franchises anniversary every 5 years. On its 30th…</description>
+      <category>games</category>
+      <category>general</category>
+      <category>zelda</category>
+      <category>games</category>
+      <category>accessories</category>
+      <category>skyward sword</category>
+      <category>nintendo switch</category>
+      <category>thingiverse</category>
+      <category>fiverr</category>
+      <category>3d</category>
+    </item>
+    <item>
+      <title>Hiding parts of the map on Phaser JS - Game Devlog #21</title>
+      <link>https://pablo.gg/en/blog/games/hiding-parts-of-the-map-on-phaser-js-game-devlog-21/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/hiding-parts-of-the-map-on-phaser-js-game-devlog-21/</guid>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 GMT</pubDate>
+      <description>For those of you that don&apos;t know, Metroidvania is probably my favorite game genre, so I decided to add a feature from Metroidvania games to Super Ollie, hidden…</description>
+      <category>games</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>game devlog</category>
+      <category>gamedev</category>
+      <category>skate platformer</category>
+      <category>super ollie vs pebble corp</category>
+      <category>webpack</category>
+      <category>tiled</category>
+      <category>metroidvania</category>
+    </item>
+    <item>
+      <title>Creating falling spikes with Phaser JS - Game Devlog #20</title>
+      <link>https://pablo.gg/en/blog/games/creating-falling-spikes-with-phaser-js-game-devlog-20/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/creating-falling-spikes-with-phaser-js-game-devlog-20/</guid>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 GMT</pubDate>
+      <description>Hey everyone! Today I&apos;m finally back with another game devlog for Super Ollie, and I&apos;m going to implement a classic element of a 2D platformer, a falling spike.…</description>
+      <category>games</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>game devlog</category>
+      <category>gamedev</category>
+      <category>skate platformer</category>
+      <category>super ollie vs pebble corp</category>
+      <category>webpack</category>
+      <category>tiled</category>
+    </item>
+    <item>
+      <title>Automatically generate sprite sheet atlas files for your Phaser JS game with a Node.js script</title>
+      <link>https://pablo.gg/en/blog/games/automatically-generate-sprite-sheet-atlas-files-for-your-phaser-js-game-with-a-nodejs-script/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/automatically-generate-sprite-sheet-atlas-files-for-your-phaser-js-game-with-a-nodejs-script/</guid>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 GMT</pubDate>
+      <description>In one of my first game devlogs, I explained how to automate the sprite sheet generation for Phaser 3 using Webpack, but I think it would be more helpful if I h…</description>
+      <category>games</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>nodejs</category>
+      <category>node</category>
+      <category>atlas</category>
+      <category>sprite sheet</category>
+      <category>automation</category>
+    </item>
+    <item>
+      <title>Hanging on a monkey bar Phaser JS - Game Devlog #19</title>
+      <link>https://pablo.gg/en/blog/games/hanging-on-a-monkey-bar-on-phaser-js-game-devlog-19/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/hanging-on-a-monkey-bar-on-phaser-js-game-devlog-19/</guid>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 GMT</pubDate>
+      <description>Hey everyone, today&apos;s devlog will be very similar to the previous one, but instead of climbing a ladder I&apos;m going to implement a monkey bar that the hero can ha…</description>
+      <category>games</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>game devlog</category>
+      <category>gamedev</category>
+      <category>skate platformer</category>
+      <category>super ollie vs pebble corp</category>
+      <category>webpack</category>
+      <category>tiled</category>
+      <category>monkey bar</category>
+    </item>
+    <item>
+      <title>Metroid 5 is finally announced, 19 years later</title>
+      <link>https://pablo.gg/en/blog/games/metroid-5-is-finally-announced-19-years-later/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/metroid-5-is-finally-announced-19-years-later/</guid>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
+      <description>Metroid Dread 6785 days, that&apos;s how long ago Metroid 4 (aka Metroid Fusion) was released. That was a long time ago, I was still learning to kickflip and didn&apos;t…</description>
+      <category>games</category>
+      <category>metroid</category>
+      <category>metroid dread</category>
+      <category>metroid 5</category>
+      <category>nintendo</category>
+      <category>e3</category>
+      <category>e3 2021</category>
+      <category>metroidvania</category>
+    </item>
+    <item>
+      <title>Creating ladders for platformer with Phaser JS - Game Devlog #18</title>
+      <link>https://pablo.gg/en/blog/games/creating-ladders-for-platformer-with-phaser-js-game-devlog-18/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/creating-ladders-for-platformer-with-phaser-js-game-devlog-18/</guid>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 GMT</pubDate>
+      <description>Hey everyone, I&apos;m back with another devlog for Super Ollie. Today I will explain how I added the ladder-climbing feature to the game. Climbing To make this poss…</description>
+      <category>games</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>game devlog</category>
+      <category>gamedev</category>
+      <category>skate platformer</category>
+      <category>super ollie vs pebble corp</category>
+      <category>climbing</category>
+      <category>tiled</category>
+      <category>ladder</category>
+    </item>
+    <item>
+      <title>How to create an offline search page with Gatsby</title>
+      <link>https://pablo.gg/en/blog/coding/how-to-create-an-offline-search-page-with-gatsby/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/how-to-create-an-offline-search-page-with-gatsby/</guid>
+      <pubDate>Sat, 29 May 2021 00:00:00 GMT</pubDate>
+      <description>When making a JAMStack website, some compromises need to be made, but searching is not one of them, thanks to JavaScript libraries like flexsearch and lunr.js.…</description>
+      <category>coding</category>
+      <category>gatsby</category>
+      <category>javascript</category>
+      <category>reactjs</category>
+      <category>jamstack</category>
+      <category>flexsearch</category>
+    </item>
+    <item>
+      <title>Building a dynamic form from a JSON schema</title>
+      <link>https://pablo.gg/en/blog/coding/building-a-dynamic-form-from-a-json-schema/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/building-a-dynamic-form-from-a-json-schema/</guid>
+      <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
+      <description>Around 2 months ago, Gatsby v3 was released, and I was already super hyped to upgrade this blog to v3 and start using incremental builds, but &quot;sadly&quot; this blog…</description>
+      <category>coding</category>
+      <category>json schema</category>
+      <category>json</category>
+      <category>gatsby</category>
+      <category>javascript</category>
+      <category>resume builder</category>
+      <category>formik</category>
+      <category>reactjs</category>
+    </item>
+    <item>
+      <title>Using GitHub Actions to deploy my blog into different domains</title>
+      <link>https://pablo.gg/en/blog/coding/using-github-actions-to-deploy-my-blog-into-different-domains/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/using-github-actions-to-deploy-my-blog-into-different-domains/</guid>
+      <pubDate>Sat, 15 May 2021 00:00:00 GMT</pubDate>
+      <description>Today I decided to deploy my blog to my GitHub Pages address, blopa.github.io, in addition to my normal pablo.gg deploy, but how can I do that? First I created…</description>
+      <category>coding</category>
+      <category>github actions</category>
+      <category>gatsby</category>
+      <category>javascript</category>
+      <category>deploy</category>
+      <category>reactjs</category>
+      <category>automation</category>
+    </item>
+    <item>
+      <title>How to calculate the annual inflation in Brazil using JavaScript</title>
+      <link>https://pablo.gg/en/blog/coding/how-to-calculate-brazils-annual-inflation-using-javascript/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/how-to-calculate-brazils-annual-inflation-using-javascript/</guid>
+      <pubDate>Thu, 13 May 2021 00:00:00 GMT</pubDate>
+      <description>Today I needed to know the accumulated inflation of the last year for Brazil for a project I am working on, information that can be easily accessed on the IBGE…</description>
+      <category>coding</category>
+      <category>json</category>
+      <category>central bank</category>
+      <category>brazil</category>
+      <category>inflation</category>
+      <category>reduce</category>
+      <category>accumulated inflation</category>
+      <category>javascript</category>
+      <category>annual inflation</category>
+    </item>
+    <item>
+      <title>How to create a JSON download link using HTML only</title>
+      <link>https://pablo.gg/en/blog/coding/how-to-create-a-json-download-link-using-html-only/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/how-to-create-a-json-download-link-using-html-only/</guid>
+      <pubDate>Sun, 09 May 2021 00:00:00 GMT</pubDate>
+      <description>This week I was working on my project Resume Builder and I wanted to be able to create a button that downloads a JSON without using JavaScript. The only way I k…</description>
+      <category>coding</category>
+      <category>json</category>
+      <category>html</category>
+      <category>download</category>
+      <category>base64</category>
+      <category>resume builder</category>
+    </item>
+    <item>
+      <title>I lost 14kg this year, here is how you can too</title>
+      <link>https://pablo.gg/en/blog/general/i-lost-14kg-this-year-here-is-how-you-can-too/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/general/i-lost-14kg-this-year-here-is-how-you-can-too/</guid>
+      <pubDate>Sun, 02 May 2021 00:00:00 GMT</pubDate>
+      <description>Get in contact with your local nutritionist. GG EZ.</description>
+      <category>general</category>
+      <category>life hack</category>
+      <category>weight</category>
+    </item>
+    <item>
+      <title>Creating a pogo-attack with Phaser JS - Game Devlog #17</title>
+      <link>https://pablo.gg/en/blog/games/creating-a-pogo-attack-with-phaser-js-game-devlog-17/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/creating-a-pogo-attack-with-phaser-js-game-devlog-17/</guid>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
+      <description>Well, this is awkward... It&apos;s been four months since my last devlog on the skate platformer game, but you know life is complicated sometimes. Today I want to sh…</description>
+      <category>games</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>game devlog</category>
+      <category>gamedev</category>
+      <category>skate platformer</category>
+      <category>super ollie vs pebble corp</category>
+      <category>webpack</category>
+      <category>tiled</category>
+    </item>
+    <item>
+      <title>I pay $0.00 in hosting for this website</title>
+      <link>https://pablo.gg/en/blog/coding/i-pay-0-in-hosting-for-this-website/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/i-pay-0-in-hosting-for-this-website/</guid>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 GMT</pubDate>
+      <description>When I was in college, web development wasn&apos;t a major part of programming as it is these days, I didn&apos;t have a single class on the web, and now I work with it e…</description>
+      <category>coding</category>
+      <category>jamstack</category>
+      <category>javascript</category>
+      <category>gatsby</category>
+      <category>reactjs</category>
+      <category>github</category>
+      <category>github pages</category>
+      <category>github actions</category>
+      <category>frugal</category>
+      <category>multi-languages</category>
+      <category>flexsearch</category>
+      <category>google photos</category>
+      <category>markdown</category>
+    </item>
+    <item>
+      <title>One year of working from home</title>
+      <link>https://pablo.gg/en/blog/general/one-year-of-working-from-home/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/general/one-year-of-working-from-home/</guid>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 GMT</pubDate>
+      <description>Happy #quarantineversary! Oh yeah, it&apos;s been one year, one year since I was told to work from home for the next two weeks, and apparently, this includes give or…</description>
+      <category>general</category>
+      <category>quarantineversary</category>
+      <category>working from home</category>
+      <category>wfh</category>
+    </item>
+    <item>
+      <title>Godammit Telegram!</title>
+      <link>https://pablo.gg/en/blog/general/godammit-telegram/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/general/godammit-telegram/</guid>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 GMT</pubDate>
+      <description>Well isn&apos;t that something? Less than 7 days after failing to restore my messages backup on Whatsapp, Telegram announced that you can now import messages from ot…</description>
+      <category>general</category>
+      <category>whatsapp</category>
+      <category>sqlite</category>
+      <category>coding</category>
+      <category>backup</category>
+      <category>javascript</category>
+      <category>telegram</category>
+      <category>signal</category>
+      <category>nodejs</category>
+      <category>node</category>
+    </item>
+    <item>
+      <title>Godammit Whatsapp!</title>
+      <link>https://pablo.gg/en/blog/general/godammit-whatsapp/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/general/godammit-whatsapp/</guid>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 GMT</pubDate>
+      <description>Whatsapp was in all news outlets recently due to its new privacy policies, but this post is not about that. Oh no no, this post is about my 28 hours battle to r…</description>
+      <category>general</category>
+      <category>whatsapp</category>
+      <category>sqlite</category>
+      <category>coding</category>
+      <category>backup</category>
+      <category>python</category>
+      <category>telegram</category>
+      <category>signal</category>
+    </item>
+    <item>
+      <title>Adding transition when entering a stage on Phaser JS - Game Devlog #16</title>
+      <link>https://pablo.gg/en/blog/games/adding-transition-when-entering-a-stage-on-phaser-js-skate-platformer-game-devlog-16/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/adding-transition-when-entering-a-stage-on-phaser-js-skate-platformer-game-devlog-16/</guid>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 GMT</pubDate>
+      <description>Wassup everyone, I&apos;m once again late with my &quot;weekly&quot; devlog, due to the holidays and stuff. But let&apos;s drop the small talk and cut to the chase. youtube: https:…</description>
+      <category>games</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>game devlog</category>
+      <category>gamedev</category>
+      <category>skate platformer</category>
+      <category>super ollie vs pebble corp</category>
+      <category>webpack</category>
+      <category>tiled</category>
+    </item>
+    <item>
+      <title>Creating a smarter and more performing AI on Phaser JS - Game Devlog #15</title>
+      <link>https://pablo.gg/en/blog/games/creating-a-smarter-and-more-performing-ai-on-phaser-js-skate-platformer-game-devlog-15/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/creating-a-smarter-and-more-performing-ai-on-phaser-js-skate-platformer-game-devlog-15/</guid>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 GMT</pubDate>
+      <description>Alright, get comfortable because today&apos;s devlog is long, but it&apos;s worth it. I&apos;m really happy I managed to do this devlog, after all Cyberpunk 2077 was released…</description>
+      <category>games</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>game devlog</category>
+      <category>gamedev</category>
+      <category>skate platformer</category>
+      <category>super ollie vs pebble corp</category>
+      <category>webpack</category>
+      <category>tiled</category>
+      <category>cyberpunk 2077</category>
+      <category>stadia</category>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Creating custom weather on Phaser JS - Skate Platformer Game Devlog #14</title>
+      <link>https://pablo.gg/en/blog/games/creating-custom-weather-on-phaser-js-skate-platformer-game-devlog-14/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/creating-custom-weather-on-phaser-js-skate-platformer-game-devlog-14/</guid>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 GMT</pubDate>
+      <description>Hey, y&apos;all. This week I bring another tiny devlog due to being way too hooked in Hyrule Warriors... yeah yeah I know, but I finally beat the game on difficulty…</description>
+      <category>games</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>game devlog</category>
+      <category>gamedev</category>
+      <category>skate platformer</category>
+      <category>super ollie vs pebble corp</category>
+      <category>webpack</category>
+      <category>tiled</category>
+      <category>hyrule warriors</category>
+      <category>weather</category>
+      <category>rain</category>
+    </item>
+    <item>
+      <title>Creating a loading screen and adding translation on Phaser JS - Skate Platformer Game Devlog #13</title>
+      <link>https://pablo.gg/en/blog/games/creating-a-loading-screen-and-adding-translation-on-phaser-js-skate-platformer-game-devlog-13/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/creating-a-loading-screen-and-adding-translation-on-phaser-js-skate-platformer-game-devlog-13/</guid>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 GMT</pubDate>
+      <description>Hey guys, in today&apos;s game devlog I&apos;ll add a loading screen showing the assets being loaded and also add the option to use translations in the game&apos;s texts. yout…</description>
+      <category>games</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>game devlog</category>
+      <category>gamedev</category>
+      <category>skate platformer</category>
+      <category>super ollie vs pebble corp</category>
+      <category>webpack</category>
+      <category>tiled</category>
+      <category>i18next</category>
+      <category>translation</category>
+      <category>hyrule warriors</category>
+    </item>
+    <item>
+      <title>Saving player progress with checkpoints with Phaser JS - Skate Platformer Game Devlog #12</title>
+      <link>https://pablo.gg/en/blog/games/saving-player-progress-with-checkpoints-with-phaser-js-skate-platformer-game-devlog-12/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/saving-player-progress-with-checkpoints-with-phaser-js-skate-platformer-game-devlog-12/</guid>
+      <pubDate>Thu, 19 Nov 2020 00:00:00 GMT</pubDate>
+      <description>Hey guys! In today&apos;s video, I will show you how I created a checkpoint for the hero in my game in a very easy way. youtube: https://www.youtube.com/watch?v=KKsg…</description>
+      <category>games</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>game devlog</category>
+      <category>gamedev</category>
+      <category>skate platformer</category>
+      <category>super ollie vs pebble corp</category>
+      <category>webpack</category>
+      <category>tiled</category>
+      <category>hyrule warriors</category>
+    </item>
+    <item>
+      <title>Loading user-created Tiled stages on Phaser JS - Skate Platformer Game Devlog #11</title>
+      <link>https://pablo.gg/en/blog/games/loading-user-created-tiled-stages-on-phaser-js-skate-platformer-game-devlog-11/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/loading-user-created-tiled-stages-on-phaser-js-skate-platformer-game-devlog-11/</guid>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 GMT</pubDate>
+      <description>Hey guys, in today&apos;s devlog I&apos;m going to make something really cool - dynamically upload external Tiled map files created by the user. youtube: https://www.yout…</description>
+      <category>games</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>game devlog</category>
+      <category>gamedev</category>
+      <category>skate platformer</category>
+      <category>super ollie vs pebble corp</category>
+      <category>webpack</category>
+      <category>tiled</category>
+    </item>
+    <item>
+      <title>Creating hero HUD on Phaser JS - Skate Platformer Game Devlog #10</title>
+      <link>https://pablo.gg/en/blog/games/creating-hero-hud-on-phaser-js-skate-platformer-game-devlog-10/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/creating-hero-hud-on-phaser-js-skate-platformer-game-devlog-10/</guid>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 GMT</pubDate>
+      <description>Hey guys, in today&apos;s game devlog I&apos;ll show you how I did to create the HUD with the hero&apos;s status. youtube: https://www.youtube.com/watch?v=JVeRYsaXxpg The firs…</description>
+      <category>games</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>game devlog</category>
+      <category>gamedev</category>
+      <category>skate platformer</category>
+      <category>super ollie vs pebble corp</category>
+      <category>webpack</category>
+      <category>tiled</category>
+      <category>hud</category>
+      <category>player status</category>
+      <category>health</category>
+    </item>
+    <item>
+      <title>Creating enemies artificial intelligence on Phaser JS - Skate Platformer Game Devlog #09</title>
+      <link>https://pablo.gg/en/blog/games/creating-enemies-artificial-intelligence-on-phaser-js-skate-platformer-game-devlog-9/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/creating-enemies-artificial-intelligence-on-phaser-js-skate-platformer-game-devlog-9/</guid>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 GMT</pubDate>
+      <description>Hey guys! For today&apos;s game devlog I&apos;m going to show more details of the enemies AI that I implemented. youtube: https://www.youtube.com/watch?v=9vocKXNKNjk I de…</description>
+      <category>games</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>game devlog</category>
+      <category>gamedev</category>
+      <category>skate platformer</category>
+      <category>super ollie vs pebble corp</category>
+      <category>webpack</category>
+      <category>tiled</category>
+      <category>ai</category>
+      <category>artificial intelligence</category>
+    </item>
+    <item>
+      <title>Creating enemies and collectable items on Phaser JS - Skate Platformer Game Devlog #08</title>
+      <link>https://pablo.gg/en/blog/games/creating-enemies-and-collectable-items-on-phaser-js-skate-platformer-game-devlog-8/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/creating-enemies-and-collectable-items-on-phaser-js-skate-platformer-game-devlog-8/</guid>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 GMT</pubDate>
+      <description>Hey guys, I&apos;m back with another game devlog, it took me a while to make this one because there were a couple of things that I didn&apos;t know how to do (still don&apos;t…</description>
+      <category>games</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>game devlog</category>
+      <category>gamedev</category>
+      <category>skate platformer</category>
+      <category>super ollie vs pebble corp</category>
+      <category>webpack</category>
+      <category>tiled</category>
+    </item>
+    <item>
+      <title>Loading external tileset file on Phaser JS using Webpack - Skate Platformer Game Devlog #07</title>
+      <link>https://pablo.gg/en/blog/games/loading-external-tileset-file-on-phaser-js-using-webpack-skate-platformer-game-devlog-7/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/loading-external-tileset-file-on-phaser-js-using-webpack-skate-platformer-game-devlog-7/</guid>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 GMT</pubDate>
+      <description>Super Ollie vs Pebble Corp. In today&apos;s Game Devlog I will show you how to load external tilesets into Phaser JS, but first let&apos;s take this out of the way: Forge…</description>
+      <category>games</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>game devlog</category>
+      <category>gamedev</category>
+      <category>skate platformer</category>
+      <category>super ollie vs pebble corp</category>
+      <category>webpack</category>
+      <category>tiled</category>
+    </item>
+    <item>
+      <title>Falling off platforms with Arcade Physics on Phaser JS - Skate Platformer Game Devlog #06</title>
+      <link>https://pablo.gg/en/blog/games/falling-off-platforms-with-arcade-physics-on-phaser-js-skate-platformer-game-devlog-6/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/falling-off-platforms-with-arcade-physics-on-phaser-js-skate-platformer-game-devlog-6/</guid>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 GMT</pubDate>
+      <description>Hey guys! Today&apos;s Game Devlog is a bit long, 15 minutes, but bare with me because there are a lot of interesting things going on in the game. youtube: https://w…</description>
+      <category>games</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>game devlog</category>
+      <category>gamedev</category>
+      <category>skate platformer</category>
+      <category>super ollie vs pebble corp</category>
+      <category>webpack</category>
+      <category>tiled</category>
+    </item>
+    <item>
+      <title>Using a button to run with Phaser JS - Skate Platformer Game Devlog #05</title>
+      <link>https://pablo.gg/en/blog/games/using-a-button-to-run-with-phaser-js-skate-platformer-game-devlog-5/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/using-a-button-to-run-with-phaser-js-skate-platformer-game-devlog-5/</guid>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 GMT</pubDate>
+      <description>Hey guys, in this week&apos;s Game Devlog I&apos;ll show you how I implemented the hero&apos;s skateboard movement, which is activated when you press the directional button tw…</description>
+      <category>games</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>game devlog</category>
+      <category>gamedev</category>
+      <category>skate platformer</category>
+      <category>super ollie vs pebble corp</category>
+      <category>webpack</category>
+      <category>tiled</category>
+    </item>
+    <item>
+      <title>How an open source project landed me a job abroad</title>
+      <link>https://pablo.gg/en/blog/coding/how-an-open-source-project-landed-me-a-job-abroad/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/coding/how-an-open-source-project-landed-me-a-job-abroad/</guid>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 GMT</pubDate>
+      <description>It&apos;s normal for people in the tech industry to move around the globe in search of better jobs, or even just move around for the sake of moving around, the popul…</description>
+      <category>coding</category>
+      <category>coding</category>
+      <category>job</category>
+      <category>resume</category>
+      <category>working abroad</category>
+      <category>open source</category>
+      <category>resume builder</category>
+    </item>
+    <item>
+      <title>Holding button to jump higher with Phaser JS - Skate Platformer Game Devlog #04</title>
+      <link>https://pablo.gg/en/blog/games/skate-platformer-game-devlog-4/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/skate-platformer-game-devlog-4/</guid>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 GMT</pubDate>
+      <description>Hey, I&apos;m back with another Game Devlog. In today&apos;s devlog we are going to see a simple way to make the hero jump higher if you hold the button longer. youtube:…</description>
+      <category>games</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>game devlog</category>
+      <category>gamedev</category>
+      <category>skate platformer</category>
+      <category>super ollie vs pebble corp</category>
+      <category>webpack</category>
+      <category>tiled</category>
+    </item>
+    <item>
+      <title>Creating precise custom colliders for Arcade Physics on Phaser JS - Skate Platformer Game Devlog #03</title>
+      <link>https://pablo.gg/en/blog/games/third-game-devlog-of-skate-platformer/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/third-game-devlog-of-skate-platformer/</guid>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 GMT</pubDate>
+      <description>Hey guys, another game devlog of skate platformer, this time I added the hero&apos;s movement animation and created a helper function to create custom collisions str…</description>
+      <category>games</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>game devlog</category>
+      <category>gamedev</category>
+      <category>skate platformer</category>
+      <category>super ollie vs pebble corp</category>
+      <category>webpack</category>
+      <category>tiled</category>
+    </item>
+    <item>
+      <title>Me, San Francisco and Metallica</title>
+      <link>https://pablo.gg/en/blog/events/me-san-francisco-and-metallica/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/events/me-san-francisco-and-metallica/</guid>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 GMT</pubDate>
+      <description>So that&apos;s me, in front of the big opening of the Chase Center in San Francisco. Why do you ask? To answer that we need to go back in time to 17 years. Back in s…</description>
+      <category>events</category>
+      <category>metallica</category>
+      <category>san francisco</category>
+      <category>symphony</category>
+      <category>s&amp;m</category>
+      <category>s&amp;m2</category>
+      <category>symphony and metallica</category>
+    </item>
+    <item>
+      <title>Improving sprite sheets generation for Phaser JS game with Webpack 4 - Skate Platformer Game Devlog #02</title>
+      <link>https://pablo.gg/en/blog/games/second-game-devlog-of-skate-platformer/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/second-game-devlog-of-skate-platformer/</guid>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 GMT</pubDate>
+      <description>Hey guys, second post in less than a week, unbelievable. youtube: https://www.youtube.com/watch?v=XP-jFSSyH7k In the gameplay, we don&apos;t have a lot of news since…</description>
+      <category>games</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>game devlog</category>
+      <category>gamedev</category>
+      <category>skate platformer</category>
+      <category>super ollie vs pebble corp</category>
+      <category>webpack</category>
+      <category>tiled</category>
+    </item>
+    <item>
+      <title>Trying out Phaser JS Arcade Physics - Skate Platformer Game Devlog #01</title>
+      <link>https://pablo.gg/en/blog/games/first-game-devlog-of-my-game/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/first-game-devlog-of-my-game/</guid>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 GMT</pubDate>
+      <description>Hey guys, quite some time since I don&apos;t post anything, right... like 4 years. Well, I&apos;m back to bring you some good news, or so I hope. This year I decided to d…</description>
+      <category>games</category>
+      <category>coding</category>
+      <category>games</category>
+      <category>javascript</category>
+      <category>phaser</category>
+      <category>phaser 3</category>
+      <category>game devlog</category>
+      <category>gamedev</category>
+      <category>skate platformer</category>
+      <category>super ollie vs pebble corp</category>
+    </item>
+    <item>
+      <title>An open letter to Mark Manson</title>
+      <link>https://pablo.gg/en/blog/general/an-open-letter-to-mark-manson/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/general/an-open-letter-to-mark-manson/</guid>
+      <pubDate>Tue, 16 Feb 2016 00:00:00 GMT</pubDate>
+      <description>Word! Att.</description>
+      <category>general</category>
+      <category>word</category>
+      <category>mark manson</category>
+      <category>general</category>
+    </item>
+    <item>
+      <title>Google Flights OP</title>
+      <link>https://pablo.gg/en/blog/tips/google-flights-op/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/tips/google-flights-op/</guid>
+      <pubDate>Sun, 31 May 2015 00:00:00 GMT</pubDate>
+      <description>Google Flights being awesome Well, recently I found out that Google had created the wonderful Google Flights, which is a search engine for flights from various…</description>
+      <category>tips</category>
+      <category>tips</category>
+      <category>awesome</category>
+      <category>google flights</category>
+      <category>tickets</category>
+      <category>general</category>
+      <category>trips</category>
+    </item>
+    <item>
+      <title>Trip to LA - E3 2014</title>
+      <link>https://pablo.gg/en/blog/events/trip-to-la-e3-2014/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/events/trip-to-la-e3-2014/</guid>
+      <pubDate>Fri, 08 Aug 2014 00:00:00 GMT</pubDate>
+      <description>Another year I had the privilege to participate in the E3 coverage for Game Blast, and I made a little video summarizing how our trip was. youtube: https://www.…</description>
+      <category>events</category>
+      <category>general</category>
+      <category>games</category>
+      <category>trips</category>
+      <category>e3</category>
+      <category>events</category>
+    </item>
+    <item>
+      <title>Lego love</title>
+      <link>https://pablo.gg/en/blog/collectibles/lego-love/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/collectibles/lego-love/</guid>
+      <pubDate>Sat, 09 Feb 2013 00:00:00 GMT</pubDate>
+      <description>Vegeta grrrrr Lately I fell in love with Lego again, which was my favorite childhood toy, or at least it was until I got a SNES. Taking advantage that I bought…</description>
+      <category>collectibles</category>
+      <category>lego</category>
+      <category>marvel</category>
+      <category>vegeta</category>
+      <category>tips</category>
+      <category>general</category>
+      <category>dragonball</category>
+    </item>
+    <item>
+      <title>New handheld: Revo K101 (GBA clone)</title>
+      <link>https://pablo.gg/en/blog/games/new-handheld-revo-k101-gba-clone/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/new-handheld-revo-k101-gba-clone/</guid>
+      <pubDate>Sat, 09 Feb 2013 00:00:00 GMT</pubDate>
+      <description>Fala galera! Beleza? Muitos leitores aqui no meu blog, sempre. Ano passado quando estava tudo confirmado para eu viajar para Los Angeles, eu comecei a pesquisar…</description>
+      <category>games</category>
+      <category>a330</category>
+      <category>gba</category>
+      <category>gemei</category>
+      <category>revo k101</category>
+      <category>tips</category>
+      <category>games</category>
+      <category>hardware</category>
+      <category>software</category>
+      <category>unboxing</category>
+    </item>
+    <item>
+      <title>Trip to E3 2012</title>
+      <link>https://pablo.gg/en/blog/events/trip-to-e3-2012/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/events/trip-to-e3-2012/</guid>
+      <pubDate>Thu, 20 Dec 2012 00:00:00 GMT</pubDate>
+      <description>Gameblast team Woohoooo!!! Completing 6 months of E3, and practically 6 months also that I don&apos;t write anything here. Sad. But ok, lemm show you a video summari…</description>
+      <category>events</category>
+      <category>general</category>
+      <category>games</category>
+      <category>trips</category>
+      <category>e3</category>
+      <category>events</category>
+    </item>
+    <item>
+      <title>E3 2012 - And here we... Go</title>
+      <link>https://pablo.gg/en/blog/events/e3-2012-and-here-we-go/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/events/e3-2012-and-here-we-go/</guid>
+      <pubDate>Thu, 31 May 2012 00:00:00 GMT</pubDate>
+      <description>BACK FROM THE DEAD? Hardly. It just arrived at a time when I can&apos;t help but post about what&apos;s coming next week. Well, last year I had the great opportunity to g…</description>
+      <category>events</category>
+      <category>general</category>
+      <category>trips</category>
+      <category>e3</category>
+      <category>los angeles</category>
+      <category>games</category>
+    </item>
+    <item>
+      <title>Zelda timeline and Skyward Sword placement</title>
+      <link>https://pablo.gg/en/blog/games/zelda-timeline-and-skyward-sword-placement/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/zelda-timeline-and-skyward-sword-placement/</guid>
+      <pubDate>Sat, 03 Jul 2010 00:00:00 GMT</pubDate>
+      <description>Well, it has been a few months since I decided to dedicate a few days of my life trying to put Zelda games on a correct timeline. I was based on the history of…</description>
+      <category>games</category>
+      <category>skyward sword</category>
+      <category>timeline</category>
+      <category>zelda</category>
+      <category>games</category>
+      <category>general</category>
+    </item>
+    <item>
+      <title>Unboxing white chocolate easter egg</title>
+      <link>https://pablo.gg/en/blog/tips/unboxing-white-chocolate-easter-egg/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/tips/unboxing-white-chocolate-easter-egg/</guid>
+      <pubDate>Wed, 07 Apr 2010 00:00:00 GMT</pubDate>
+      <description>talento I realized that there aren&apos;t many videos about it, so I made my contribution! =D next week unboxing of Peppermint Tablets. youtube: https://www.youtube.…</description>
+      <category>tips</category>
+      <category>easter egg</category>
+      <category>unboxing</category>
+      <category>tips</category>
+      <category>general</category>
+    </item>
+    <item>
+      <title>Having fun with Sony Vegas</title>
+      <link>https://pablo.gg/en/blog/funny/having-fun-with-sony-vegas/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/funny/having-fun-with-sony-vegas/</guid>
+      <pubDate>Tue, 23 Mar 2010 00:00:00 GMT</pubDate>
+      <description>Clone Waking up early and being left with nothing to do is awesome, in need of entertainment, nothing better than a joke at Sony Vegas. Who knows next week I tr…</description>
+      <category>funny</category>
+      <category>general</category>
+    </item>
+    <item>
+      <title>Jirachi from Latamel event</title>
+      <link>https://pablo.gg/en/blog/events/jirachi-from-latamel-event/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/events/jirachi-from-latamel-event/</guid>
+      <pubDate>Mon, 22 Mar 2010 00:00:00 GMT</pubDate>
+      <description>Jirachi Release As you may already know, a special Jirachi distribution event took place in Brazil, organized by Latamel. It was beautiful, I went to the penult…</description>
+      <category>events</category>
+      <category>general</category>
+      <category>events</category>
+      <category>pokémon</category>
+      <category>games</category>
+    </item>
+    <item>
+      <title>Pokémon Soul Silver Unboxing</title>
+      <link>https://pablo.gg/en/blog/games/pokemon-soul-silver-unboxing/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/pokemon-soul-silver-unboxing/</guid>
+      <pubDate>Sun, 21 Mar 2010 00:00:00 GMT</pubDate>
+      <description>MY POKEMON CARTRIDGE IS HERE! YAAAAAY!!! The Pokéwalker is beautiful, I can&apos;t wait to be happy and carry it everywhere with my beloved Pokémons 🤩 see below a v…</description>
+      <category>games</category>
+      <category>general</category>
+      <category>games</category>
+      <category>pokémon</category>
+      <category>pokéwalker</category>
+    </item>
+    <item>
+      <title>Unboxing the Wireless Guitar for Wii</title>
+      <link>https://pablo.gg/en/blog/tips/unboxing-the-wireless-guitar-for-wii/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/tips/unboxing-the-wireless-guitar-for-wii/</guid>
+      <pubDate>Fri, 05 Mar 2010 00:00:00 GMT</pubDate>
+      <description>After a long wait, my Wii guitar arrived. I paid a measly R$70.00 on it! A quality product =D see below a video of the unboxing. youtube: https://www.youtube.co…</description>
+      <category>tips</category>
+      <category>guitarra</category>
+      <category>wii</category>
+      <category>tips</category>
+      <category>games</category>
+      <category>unboxing</category>
+    </item>
+    <item>
+      <title>Camy Hero Pack - For those who cannot wait for the next Zelda</title>
+      <link>https://pablo.gg/en/blog/games/camy-hero-pack-for-those-who-cannot-wait-for-the-new-zelda/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/camy-hero-pack-for-those-who-cannot-wait-for-the-new-zelda/</guid>
+      <pubDate>Thu, 18 Feb 2010 00:00:00 GMT</pubDate>
+      <description>Hero Pack Can&apos;t handle the will to be able to control Link in his new Wii adventure anymore? All that perfect MotionPlus movement has left us all biting our lip…</description>
+      <category>games</category>
+      <category>general</category>
+      <category>zelda</category>
+      <category>games</category>
+      <category>accessories</category>
+      <category>skyward sword</category>
+      <category>wii</category>
+    </item>
+    <item>
+      <title>Softwares law in Brazil</title>
+      <link>https://pablo.gg/en/blog/tips/softwares-law-in-brazil/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/tips/softwares-law-in-brazil/</guid>
+      <pubDate>Sun, 24 Jan 2010 00:00:00 GMT</pubDate>
+      <description>Today I found some information I had been looking for a long time, and I finally found it on the Planalto website. I had read in several places that downloading…</description>
+      <category>tips</category>
+      <category>nintendo</category>
+      <category>r4</category>
+      <category>tips</category>
+      <category>games</category>
+      <category>hardware</category>
+      <category>coding</category>
+      <category>software</category>
+    </item>
+    <item>
+      <title>2010 is coming</title>
+      <link>https://pablo.gg/en/blog/general/2010-is-coming/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/general/2010-is-coming/</guid>
+      <pubDate>Thu, 31 Dec 2009 00:00:00 GMT</pubDate>
+      <description>2009 was a kick ass year! Several new games, cellphones and awesome movies. Now I keep thinking of my new things of this year: my new screen, my Wii, my DSi, my…</description>
+      <category>general</category>
+      <category>2010</category>
+      <category>new year</category>
+      <category>general</category>
+    </item>
+    <item>
+      <title>Donatello Pasta - An awesome new restaurant in Búzios</title>
+      <link>https://pablo.gg/en/blog/tips/donatello-pasta-an-awesome-new-restaurant-in-buzios/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/tips/donatello-pasta-an-awesome-new-restaurant-in-buzios/</guid>
+      <pubDate>Thu, 24 Dec 2009 00:00:00 GMT</pubDate>
+      <description>Seriously, if you like pasta and want to spend part of your vacation in Búzios, follow the great tip to enjoy lunch and dinner: Donatello Pasta. Donatello Pasta…</description>
+      <category>tips</category>
+      <category>búzios</category>
+      <category>donatello</category>
+      <category>vacations</category>
+      <category>pasta</category>
+    </item>
+    <item>
+      <title>Zelda timeline?</title>
+      <link>https://pablo.gg/en/blog/games/zelda-timeline/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/games/zelda-timeline/</guid>
+      <pubDate>Tue, 15 Sep 2009 00:00:00 GMT</pubDate>
+      <description>zelda timeline Did you see this post&apos;s title? Yes, I&apos;m going to talk about a really discussed subject that exists on any forum/blog/fotolog/twitter/bar/museum/s…</description>
+      <category>games</category>
+      <category>zelda</category>
+      <category>games</category>
+      <category>timeline</category>
+      <category>theories</category>
+    </item>
+    <item>
+      <title>Special effects</title>
+      <link>https://pablo.gg/en/blog/general/special-effects/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/general/special-effects/</guid>
+      <pubDate>Wed, 08 Jul 2009 00:00:00 GMT</pubDate>
+      <description>Sometimes I realize that I&apos;m not just a useless information source and I remember that I&apos;ve done some pretty cool stuff! An exemple of that are the effects that…</description>
+      <category>general</category>
+      <category>descarga mtv</category>
+      <category>goku</category>
+      <category>jedi</category>
+      <category>kame hame ha</category>
+      <category>general</category>
+    </item>
+    <item>
+      <title>Hands on Samsung SC-MX20B!</title>
+      <link>https://pablo.gg/en/blog/gadgets/hands-on-samsung-scmx20b/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/gadgets/hands-on-samsung-scmx20b/</guid>
+      <pubDate>Tue, 23 Jun 2009 00:00:00 GMT</pubDate>
+      <description>Yesterday my beautiful Samsung SC-MX20B arrived, which a good old buddy brought to me from LA . I still didn&apos;t have the time to use it properly, but I&apos;ve alread…</description>
+      <category>gadgets</category>
+      <category>general</category>
+      <category>hardware</category>
+    </item>
+    <item>
+      <title>Save Earl</title>
+      <link>https://pablo.gg/en/blog/general/save-earl/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/general/save-earl/</guid>
+      <pubDate>Sun, 21 Jun 2009 00:00:00 GMT</pubDate>
+      <description>save earl Since My Name is Earl was canceled in the EUA, lots of fans started to create several petitions for the series to go on, which in my opinion is one of…</description>
+      <category>general</category>
+      <category>my name is earl</category>
+      <category>funny</category>
+      <category>saveearl</category>
+      <category>mnie</category>
+    </item>
+    <item>
+      <title>Review: Zeemote JS1</title>
+      <link>https://pablo.gg/en/blog/gadgets/review-zeemote-js1/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/gadgets/review-zeemote-js1/</guid>
+      <pubDate>Wed, 10 Jun 2009 00:00:00 GMT</pubDate>
+      <description>zeemote When I bought Zeemote I got surprised at first sight: The box is really pretty and comes with the manual, two AAA batteries, Zeemote (duh) and a carabin…</description>
+      <category>gadgets</category>
+      <category>nokia</category>
+      <category>zeemote js1</category>
+      <category>zeemote</category>
+      <category>cellphones</category>
+      <category>games</category>
+      <category>hardware</category>
+      <category>review</category>
+    </item>
+    <item>
+      <title>Review: Hot Pocket Burger</title>
+      <link>https://pablo.gg/en/blog/tips/review-hot-pocket-burger/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/tips/review-hot-pocket-burger/</guid>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 GMT</pubDate>
+      <description>hot_pocket1 These days I was at the market, choosing what to eat with little money, and I found a Hot Pocket from Sadia for R$3.00, I didn&apos;t think it was expens…</description>
+      <category>tips</category>
+      <category>food</category>
+      <category>burger</category>
+      <category>hot pocket</category>
+      <category>mc donalds</category>
+      <category>sadia</category>
+      <category>tips</category>
+      <category>review</category>
+    </item>
+    <item>
+      <title>Blog in english</title>
+      <link>https://pablo.gg/en/blog/general/blog-in-english/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/general/blog-in-english/</guid>
+      <pubDate>Wed, 13 May 2009 00:00:00 GMT</pubDate>
+      <description>idiomas After several hours searching, I finally found a practical way to put two languages on the blog. From now on, all the blog content will be available in…</description>
+      <category>general</category>
+      <category>general</category>
+      <category>languages</category>
+    </item>
+    <item>
+      <title>Fingerboard old times</title>
+      <link>https://pablo.gg/en/blog/general/fingerboard-old-times/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/general/fingerboard-old-times/</guid>
+      <pubDate>Tue, 12 May 2009 00:00:00 GMT</pubDate>
+      <description>Today I found a really old video of some fingerboard tricks that I&apos;ve recorded, when I was addicted to it :P I still carry my fingerboard in my pocket, and when…</description>
+      <category>general</category>
+      <category>fingerboard</category>
+      <category>general</category>
+    </item>
+    <item>
+      <title>Brazilian taxes</title>
+      <link>https://pablo.gg/en/blog/general/brazilian-taxes/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/general/brazilian-taxes/</guid>
+      <pubDate>Sat, 18 Apr 2009 00:00:00 GMT</pubDate>
+      <description>taxes Did you know that in every product you buy, you&apos;re paying more for taxes / services the by the product itself? Every month you pay a fee from your salary,…</description>
+      <category>general</category>
+      <category>customs</category>
+      <category>ebay</category>
+      <category>pokemon</category>
+      <category>import taxes</category>
+      <category>taxes</category>
+      <category>inflation</category>
+    </item>
+    <item>
+      <title>Nada by Los Pirata</title>
+      <link>https://pablo.gg/en/blog/funny/nada-by-los-pirata/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/funny/nada-by-los-pirata/</guid>
+      <pubDate>Tue, 11 Nov 2008 00:00:00 GMT</pubDate>
+      <description>After practically 4 years of wanting to watch this clip again, and incessant searches on the internet for music, I finally found this clip, the hottest music cl…</description>
+      <category>funny</category>
+      <category>los pirata</category>
+      <category>nada</category>
+      <category>piores clipes do mundo</category>
+      <category>funny</category>
+      <category>music</category>
+    </item>
+    <item>
+      <title>Idol: Steve Oedekerk</title>
+      <link>https://pablo.gg/en/blog/funny/idol-steve-oedekerk/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/funny/idol-steve-oedekerk/</guid>
+      <pubDate>Thu, 02 Oct 2008 00:00:00 GMT</pubDate>
+      <description>thane furrows The guy in the photo above is named Steve Oedekerk, the director/writer of the movies Bruce Almighty, Ace Ventura, Patch Adams, Kung Pow (in which…</description>
+      <category>funny</category>
+      <category>high strung</category>
+      <category>kung pow</category>
+      <category>relationships</category>
+      <category>steve oedekerk</category>
+      <category>tips</category>
+      <category>funny</category>
+      <category>movies</category>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>https://pablo.gg/en/blog/general/first-post/</link>
+      <guid isPermaLink="true">https://pablo.gg/en/blog/general/first-post/</guid>
+      <pubDate>Sun, 28 Sep 2008 00:00:00 GMT</pubDate>
+      <description>Well, I don&apos;t really know how to have this blog thing, it seems that it was one of the things that was fashionable 5 years ago, and suddenly it became fashionab…</description>
+      <category>general</category>
+      <category>saci</category>
+      <category>zelda</category>
+      <category>general</category>
+    </item>
+  </channel>
+</rss>

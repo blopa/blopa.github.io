@@ -1,0 +1,29 @@
+3:"$Sreact.fragment"
+4:"/_next/static/chunks/1j8a5jcp7z_nh.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+b:"/_next/static/chunks/2cxnh1fr1-ux-.js"
+c:"/_next/static/chunks/23qct-3t7si_3.js"
+d:I[75047,["$b","$c"],"default"]
+e:I[97367,["$4"],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[97367,["$4"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$4"],"$14"]
+16:I[27201,["$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","section",null,{"aria-label":"Summer Game Fest Countdown","className":"flex min-h-[70vh] items-center rounded-box bg-cover bg-center","style":{"backgroundImage":"linear-gradient(rgba(0,0,0,.35), rgba(0,0,0,.35)), url(/images/sgf-countdown-bg.jpg)"},"children":["$","div",null,{"className":"w-full","children":[["$","h1",null,{"className":"sr-only","children":"Summer Game Fest Countdown"}],["$","$Ld",null,{"target":"2027-06-04T09:00:00","labels":{"weAre":"We are","away":"away from Summer Game Fest 2027","ended":"This countdown has ended.","years":"Years","months":"Months","days":"Days","hours":"Hours","mins":"Mins","secs":"Secs"}}]]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/23qct-3t7si_3.js","async":true}]],["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$9"}}]]
+2:[["children",{"s":"summer-game-fest","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":{"n":"lang","t":"d","k":"en","s":["fonts","translations.json"]},"h":65584,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#3f51b5","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#212121","media":"(prefers-color-scheme: dark)"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Summer Game Fest Countdown | pablo.gg"}],["$","meta","1",{"name":"description","content":"Yet another developer personal blog"}],["$","meta","2",{"name":"application-name","content":"pablo.gg"}],["$","link","3",{"rel":"author","href":"https://pablo.gg"}],["$","meta","4",{"name":"author","content":"Pablo Montenegro"}],["$","link","5",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","6",{"name":"creator","content":"Pablo Montenegro"}],["$","link","7",{"rel":"canonical","href":"https://pablo.gg/en/summer-game-fest/"}],["$","link","8",{"rel":"alternate","hrefLang":"en","href":"https://pablo.gg/en/summer-game-fest/"}],["$","link","9",{"rel":"alternate","hrefLang":"pt-BR","href":"https://pablo.gg/pt-br/summer-game-fest/"}],["$","link","10",{"rel":"alternate","hrefLang":"x-default","href":"https://pablo.gg/en/summer-game-fest/"}],["$","link","11",{"rel":"alternate","type":"application/rss+xml","href":"https://pablo.gg/en/blog/rss.xml","title":"pablo.gg RSS"}],["$","meta","12",{"property":"og:title","content":"Summer Game Fest Countdown"}],["$","meta","13",{"property":"og:description","content":"Yet another developer personal blog"}],["$","meta","14",{"property":"og:url","content":"https://pablo.gg/en/summer-game-fest/"}],["$","meta","15",{"property":"og:site_name","content":"pablo.gg"}],["$","meta","16",{"property":"og:locale","content":"en_US"}],["$","meta","17",{"property":"og:image","content":"https://pablo.gg/images/sgf-countdown-bg.jpg"}],["$","meta","18",{"property":"og:locale:alternate","content":"pt_BR"}],["$","meta","19",{"property":"og:type","content":"website"}],["$","meta","20",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","21",{"name":"twitter:site","content":"@thepiratepablo"}],["$","meta","22",{"name":"twitter:creator","content":"@thepiratepablo"}],["$","meta","23",{"name":"twitter:title","content":"Summer Game Fest Countdown"}],["$","meta","24",{"name":"twitter:description","content":"Yet another developer personal blog"}],["$","meta","25",{"name":"twitter:image","content":"https://pablo.gg/images/sgf-countdown-bg.jpg"}],["$","link","26",{"rel":"icon","href":"/icon.png?icon.3mypp4z04tnm6.png","sizes":"1500x1500","type":"image/png"}],["$","$L16","27",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@17","v":null,"s":"$9"}},"a":"$@18","u":"$@19","b":"tm3nBkc7B7MbzNzKBBSOi"}
+10:null
+19:true
+9:300
+9:C
+18:0
+7:"$undefined"
+17:"$undefined"
+11:"$undefined"

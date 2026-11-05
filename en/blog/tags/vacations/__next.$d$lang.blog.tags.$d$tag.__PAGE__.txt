@@ -1,0 +1,32 @@
+3:"$Sreact.fragment"
+4:"/_next/static/chunks/1j8a5jcp7z_nh.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+f:"/_next/static/chunks/2cxnh1fr1-ux-.js"
+10:I[22016,["$f"],""]
+11:I[97367,["$4"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[97367,["$4"],"$15"]
+17:"MetadataBoundary"
+18:I[97367,["$4"],"$17"]
+19:I[27201,["$4"],"IconMark"]
+8:X
+8:C
+9:X
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[[["$","nav",null,{"className":"breadcrumbs mb-6 text-sm italic text-base-content/70","aria-label":"Breadcrumbs","children":["$","ul",null,{"children":[["$","li","Blog",{"children":["$","$L10",null,{"href":"/en/blog/","children":"Blog"}]}],["$","li","vacations",{"children":"vacations"}]]}]}],["$","h1",null,{"className":"mb-4 text-3xl font-bold","children":["Posts tagged with ","vacations"]}],["$","ul",null,{"className":"list","children":[["$","li","/en/blog/tips/donatello-pasta-an-awesome-new-restaurant-in-buzios/",{"className":"list-row px-0","children":["$","div",null,{"className":"list-col-grow","children":[["$","h2",null,{"className":"text-xl font-semibold","children":["$","$L10",null,{"href":"/en/blog/tips/donatello-pasta-an-awesome-new-restaurant-in-buzios/","className":"link link-hover link-primary","children":"Donatello Pasta - An awesome new restaurant in Búzios"}]}],["$","time",null,{"dateTime":"2009-12-24","className":"text-sm text-base-content/60","children":"December 24, 2009"}],["$","p",null,{"className":"mt-1 italic text-base-content/80","children":"Seriously, if you like pasta and want to spend part of your vacation in Búzios, follow the great tip to enjoy lunch and dinner: Donatello Pasta. Donatello Pasta…"}]]}]}]]}]],null,["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$9"}}]]
+c:[["children",{"s":{"n":"tag","t":"d","k":"vacations","s":[]},"h":65632,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@d","v":"$8","s":"$9"},"c":"$Qe"}]]
+a:[["children",{"s":"tags","h":131168,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$8","s":"$9"},"c":"$Qc"}]]
+2:[["children",{"s":"blog","h":131136,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":{"n":"lang","t":"d","k":"en","s":["fonts","translations.json"]},"h":196656,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#3f51b5","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#212121","media":"(prefers-color-scheme: dark)"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Posts tagged with vacations | pablo.gg"}],["$","meta","1",{"name":"description","content":"Posts tagged with vacations"}],["$","meta","2",{"name":"application-name","content":"pablo.gg"}],["$","link","3",{"rel":"author","href":"https://pablo.gg"}],["$","meta","4",{"name":"author","content":"Pablo Montenegro"}],["$","link","5",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","6",{"name":"creator","content":"Pablo Montenegro"}],["$","link","7",{"rel":"canonical","href":"https://pablo.gg/en/blog/tags/vacations/"}],["$","link","8",{"rel":"alternate","type":"application/rss+xml","href":"https://pablo.gg/en/blog/rss.xml","title":"pablo.gg RSS"}],["$","meta","9",{"property":"og:title","content":"Posts tagged with vacations"}],["$","meta","10",{"property":"og:description","content":"Posts tagged with vacations"}],["$","meta","11",{"property":"og:url","content":"https://pablo.gg/en/blog/tags/vacations/"}],["$","meta","12",{"property":"og:site_name","content":"pablo.gg"}],["$","meta","13",{"property":"og:locale","content":"en_US"}],["$","meta","14",{"property":"og:image","content":"https://pablo.gg/seo_images/2009/donatello-pasta-an-awesome-new-restaurant-in-buzios.png"}],["$","meta","15",{"property":"og:image:width","content":"1920"}],["$","meta","16",{"property":"og:image:height","content":"1080"}],["$","meta","17",{"property":"og:image:alt","content":"Donatello Pasta - An awesome new restaurant in Búzios"}],["$","meta","18",{"property":"og:type","content":"website"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:site","content":"@thepiratepablo"}],["$","meta","21",{"name":"twitter:creator","content":"@thepiratepablo"}],["$","meta","22",{"name":"twitter:title","content":"Posts tagged with vacations"}],["$","meta","23",{"name":"twitter:description","content":"Posts tagged with vacations"}],["$","meta","24",{"name":"twitter:image","content":"https://pablo.gg/seo_images/2009/donatello-pasta-an-awesome-new-restaurant-in-buzios.png"}],["$","link","25",{"rel":"icon","href":"/icon.png?icon.3mypp4z04tnm6.png","sizes":"1500x1500","type":"image/png"}],["$","$L19","26",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1a","v":null,"s":"$9"}},"a":"$@1b","u":"$@1c","b":"tm3nBkc7B7MbzNzKBBSOi"}
+13:null
+1c:true
+9:300
+9:C
+1b:0
+d:"$undefined"
+b:"$undefined"
+7:"$undefined"
+1a:"$undefined"
+14:"$undefined"
