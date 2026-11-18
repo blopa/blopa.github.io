@@ -1,0 +1,1 @@
+{"id":"zone_skeletons","start":"set","nodes":{"set":{"type":"effect","effects":[{"type":"start_quest","quest":"goblin_trouble"},{"type":"set_flag","flag":"entered_skeleton_zone"}],"next":"end"},"end":{"type":"end"}}}

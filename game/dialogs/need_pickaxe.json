@@ -1,0 +1,1 @@
+{"id":"need_pickaxe","speaker":{"en":"Hint","pt-br":"Dica"},"start":"a","nodes":{"a":{"type":"say","text":{"en":"You need a pickaxe to break this.","pt-br":"Você precisa de uma picareta pra quebrar isso."},"next":"end"},"end":{"type":"end"}}}

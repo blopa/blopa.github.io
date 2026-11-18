@@ -1,0 +1,1 @@
+{"id":"sign_cabin","speaker":{"en":"Sign","pt-br":"Placa"},"start":"read","nodes":{"read":{"type":"say","text":{"en":"Placeholder: the herb on the floor is free. Take it.","pt-br":"Placeholder: a erva no chão é de graça. Pega."},"next":"end"},"end":{"type":"end"}}}

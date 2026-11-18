@@ -1,0 +1,1 @@
+{"id":"need_axe","speaker":{"en":"Hint","pt-br":"Dica"},"start":"a","nodes":{"a":{"type":"say","text":{"en":"You need an axe to get through here.","pt-br":"Você precisa de um machado pra passar aqui."},"next":"end"},"end":{"type":"end"}}}
